@@ -13,7 +13,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chg0901/chg0901/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chg0901/chg0901/output/github-contribution-grid-snake.svg">
 </picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chg0901&layout=compact)
+
+### Contact
+
+Wechat: kwchg0901
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chg0901&show_icons=true&theme=radical)
