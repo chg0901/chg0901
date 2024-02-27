@@ -1,5 +1,6 @@
 name: generate animation
-
+# https://github.com/actions/checkout/issues/417#issuecomment-1427951779
+# https://github.com/actions/checkout/issues/417#issuecomment-1434864351
 on:
   # run automatically every 24 hours
   schedule:
