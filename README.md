@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hong Cheng</h1>
-<h3 align="center">👀 I am interested in Machine Learning and Deep Learning, particularly in the field of Path Loss Modeling, Computer Vision, Diffusion Generating, LLM and Multi-Modeal Modeling. </h3>
+<h3 align="center">👀 I am interested in Machine Learning and Deep Learning, particularly in the field of Path Loss Modeling, Computer Vision, Diffusion Generating, LLM and Multi-Modal Modeling. </h3>
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=chg0901&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
