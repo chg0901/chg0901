@@ -12,7 +12,23 @@
   <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chg0901/chg0901/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Contact
+### Current projects
+1. 智慧启迪绘（**LIC2024 RAG 1st Scheme**） https://github.com/chg0901/Public_QiDiHui
+2. EmoLLM https://github.com/SmartFlowAI/EmoLLM
+3. 食神 https://github.com/SmartFlowAI/TheGodOfCookery
+4. 峡谷小狐仙 https://github.com/chg0901/Honor_of_Kings_Multi-modal_Dataset
+
+### 《智慧启迪绘》项目介绍与【LIC2024 RAG赛道第一名方案】大揭秘！
+
+[百度飞桨AI Studio Top1 notebook](https://aistudio.baidu.com/projectdetail/8185249?channel=0&channelType=0&sUid=785756&shared=1&ts=1723448284837)
+
+![image](https://github.com/user-attachments/assets/6003b529-cbb0-4e8b-8e73-1d0272c6caab)
+
+### OpenXLab Applications and Models (Search for ‘chg0901’)
+![image](https://github.com/user-attachments/assets/6781e083-2945-4f4e-a401-4123290e01e5)
+![image](https://github.com/user-attachments/assets/8fbacbb7-19f4-47c0-8072-0d10475eb27e)
+
+### Contact with me ~
 
 Wechat: kwchg0901
 
