@@ -13,8 +13,8 @@
 </picture>
 
 ### Current projects
-1. **基于文心一言和Arduino的桌面植物养护** https://aistudio.baidu.com/projectdetail/8611377 (【**RoboticsHackathon 一等奖** [飞桨&文心大模型 飞桨星河社区6周年](https://aistudio.baidu.com/competition/detail/1255/0/introduction)】，**核心参与者**，**硬件**+大模型+**多模态生成** ) 
-2. **智慧启迪绘** https://github.com/chg0901/Public_QiDiHui （ 【**[CIPS&CCF LIC2024 http://lic2024.cipsc.org.cn](https://aistudio.baidu.com/competition/detail/1171/0/introduction/)，负责人, RAG 1st Scheme**】, **AI视频生成**和**RAG**应用）
+1. **基于文心一言和Arduino的桌面植物养护** AIstudio：https://aistudio.baidu.com/projectdetail/8611377 (【**Robotics Hackathon 一等奖** [飞桨&文心大模型 飞桨星河社区6周年](https://aistudio.baidu.com/competition/detail/1255/0/introduction)】，**核心参与者**，**硬件**+大模型+**多模态生成** ) 
+2. **智慧启迪绘** repo：https://github.com/chg0901/Public_QiDiHui AIstudio：https://aistudio.baidu.com/projectdetail/8185249（ **[CIPS&CCF LIC2024](https://aistudio.baidu.com/competition/detail/1171/0/introduction/)，负责人, RAG赛道 一等奖**, **AI视频生成**和**RAG**应用）
 3. **EmoLLM** https://github.com/SmartFlowAI/EmoLLM (**负责人**之一+**核心贡献者**, **心理领域大模型开源top项目**)
 4. **食神** https://github.com/SmartFlowAI/TheGodOfCookery (参与者，in Progress)
 5. **峡谷小狐仙** https://github.com/chg0901/Honor_of_Kings_Multi-modal_Dataset (**负责人**,**RAG**+**王者**+语音**数字人**)
