@@ -13,10 +13,11 @@
 </picture>
 
 ### Current projects
-1. 智慧启迪绘（**LIC2024 RAG 1st Scheme**） https://github.com/chg0901/Public_QiDiHui
-2. EmoLLM https://github.com/SmartFlowAI/EmoLLM
-3. 食神 https://github.com/SmartFlowAI/TheGodOfCookery
-4. 峡谷小狐仙 https://github.com/chg0901/Honor_of_Kings_Multi-modal_Dataset
+1. 【**RoboticsHackathon 一等奖**】基于文心一言和Arduino的桌面植物养护 https://aistudio.baidu.com/projectdetail/8611377 (飞桨&文心大模型 飞桨星河社区6周年)
+2. 【**LIC2024 RAG 1st Scheme**】智慧启迪绘 https://github.com/chg0901/Public_QiDiHui
+3. EmoLLM https://github.com/SmartFlowAI/EmoLLM
+4. 食神 https://github.com/SmartFlowAI/TheGodOfCookery
+5. 峡谷小狐仙 https://github.com/chg0901/Honor_of_Kings_Multi-modal_Dataset
 
 ### 《智慧启迪绘》项目介绍与【LIC2024 RAG赛道第一名方案】大揭秘！
 
