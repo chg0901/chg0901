@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hong Cheng</h1>
-<h3 align="center">👀 I am interested in Machine Learning and Deep Learning, particularly in the field of Path Loss Modeling, Computer Vision, Diffusion Generating, LLM and Multi-Modal Modeling. </h3>
+<h3 align="center">👀 I am interested in Machine Learning and Deep Learning, particularly in the field of Path Loss Modeling, Computer Vision, Diffusion Generating, LLM, RAG, Agent and Multi-Modal Modeling. </h3>
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=chg0901&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
@@ -13,7 +13,7 @@
 </picture>
 
 ### Current projects
-1. 开源课程 [**YOLO Master**](https://github.com/chg0901/yolo_master): 本项目主要对YOLO系列模型进行介绍，包括各版本模型的结构，进行的创新、优化、改进等。 本课程旨在帮助学习者们可以了解和掌握主要YOLO模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。
+1. 开源课程 [**YOLO Master**](https://github.com/chg0901/yolo_master): 本项目主要对YOLO系列模型进行介绍，包括各版本模型的结构，进行的创新、优化、改进等。 本课程旨在帮助学习者们可以了解和掌握主要YOLO模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。 (**负责人**, **CV视觉**)
 2. **基于文心一言和Arduino的桌面植物养护** AIstudio：https://aistudio.baidu.com/projectdetail/8611377 (【**Robotics Hackathon 一等奖** [飞桨&文心大模型 飞桨星河社区6周年](https://aistudio.baidu.com/competition/detail/1255/0/introduction)】，**核心参与者**，**硬件**+大模型+**多模态生成** ) 
 3. **智慧启迪绘** repo：https://github.com/chg0901/Public_QiDiHui AIstudio：https://aistudio.baidu.com/projectdetail/8185249 （ **[CIPS&CCF LIC2024](https://aistudio.baidu.com/competition/detail/1171/0/introduction/)，负责人, RAG赛道 一等奖**, **AI视频生成**和**RAG**应用）
 4. **EmoLLM** https://github.com/SmartFlowAI/EmoLLM (**负责人**之一+**核心贡献者**, **心理领域大模型开源top项目**)
@@ -32,7 +32,7 @@
 
 ### Contact with me ~
 
-Wechat: kwchg0901
+WeChat: kwchg0901
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chg0901&layout=compact)
