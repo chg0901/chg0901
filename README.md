@@ -13,7 +13,7 @@
 </picture>
 
 ### Current projects
-1. 开源课程 [**YOLO Master**](https://github.com/chg0901/yolo_master): 本项目主要对YOLO系列模型进行介绍，包括各版本模型的结构，进行的创新、优化、改进等。 本课程旨在帮助学习者们可以了解和掌握主要YOLO模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。 (**负责人**, **CV视觉**)
+1. 开源课程 [**YOLO Master**](https://github.com/chg0901/yolo-master): 本项目主要对YOLO系列模型进行介绍，包括各版本模型的结构，进行的创新、优化、改进等。 本课程旨在帮助学习者们可以了解和掌握主要YOLO模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。 (**负责人**, **CV视觉**)
 2. **基于文心一言和Arduino的桌面植物养护** AIstudio：https://aistudio.baidu.com/projectdetail/8611377 (【**Robotics Hackathon 一等奖** [飞桨&文心大模型 飞桨星河社区6周年](https://aistudio.baidu.com/competition/detail/1255/0/introduction)】，**核心参与者**，**硬件**+大模型+**多模态生成** ) 
 3. **智慧启迪绘** repo：https://github.com/chg0901/Public_QiDiHui AIstudio：https://aistudio.baidu.com/projectdetail/8185249 （ **[CIPS&CCF LIC2024](https://aistudio.baidu.com/competition/detail/1171/0/introduction/)，负责人, RAG赛道 一等奖**, **AI视频生成**和**RAG**应用）
 4. **EmoLLM** https://github.com/SmartFlowAI/EmoLLM (**负责人**之一+**核心贡献者**, **心理领域大模型开源top项目**)
